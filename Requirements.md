@@ -2,7 +2,7 @@
 
 	conda create --name <env_name> --file requirements.txt
 
-### Dataset Preparation
+### Pre-processinng
 
   (a) First of all create train test data from the raw dataset: 
   
